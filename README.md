@@ -1,39 +1,37 @@
 # Madelane Daz
 
+-----
+
 This is my learning journey at Makers Academy.
 This is where I document and keep track of my goals and progress.
 
------
------
+
 
 ## Weekly Outlines
 
-[Precourse](###Precourse)
+-----
 
-[Week 1 - Golden Square](###Week-1-and-2-Golden-Square)
-
-[Week 2 - Golden Square](###Week-1-and-2-Golden-Square)
-
-[Week 3 - Databases](###Week-3-Databases)
-
-[Week 4 - Web Applications](###Week-4-Web-Applications)
-
-[Week 5 - Consolidating Learning](###Week-5-Consolidate-Learning)
-
-[Week 6 - Group Engineering Project I](###Week-6-Engineering-Project-I)
+* [Precourse](https://github.com/maddc0de/learning-journey-at-makers###Precourse)
+* [Week 1 and 2 - Golden Square](https://github.com/maddc0de/learning-journey-at-makers###Week-1-and-2-Golden-Square)
+* [Week 3 - Databases](https://github.com/maddc0de/learning-journey-at-makers###Week-3-Databases)
+* [Week 4 - Web Applications](https://github.com/maddc0de/learning-journey-at-makers###Week-4-Web-Applications)
+* [Week 5 - Consolidate Learning](https://github.com/maddc0de/learning-journey-at-makers###Week-5-Consolidate-Learning)
+* [Week 6 - Group Engineering Project I](https://github.com/maddc0de/learning-journey-at-makers###Week-6-Engineering-Project-I)
 
 ## Course goals
 
-[ ][I can make a software](####I-can-make-a-software)
+-----
 
-[ ][I am equipped for long term growth](####I'm-equipped-for-long-term-growth)
-
-[ ][I help my teams succeed](####I-help-my-teams-succeed)
+* [I can make a software](###I-can-make-a-software)
+* [I am equipped for long term growth](###I'm-equipped-for-long-term-growth)
+* [I help my teams succeed](###I-help-my-teams-succeed)
 
 -----
 -----
 
 ### Precourse
+
+-----
 
 **Objective:**
 
@@ -47,17 +45,14 @@ This is where I document and keep track of my goals and progress.
 
 **Evidence**
 
-[Solved Command Line Challenge - submitted a pull request](https://github.com/makersacademy/clmystery/pull/2680)
-
-[Completed Ruby Mastery Quizzes](https://github.com/maddc0de/mastery-quizzes)
-
-[First attempt at pair-programming](https://github.com/maddc0de/fizzbuzz)
-
-[Created a command line app](https://github.com/maddc0de/student-directory)
-
------
+* [Solved Command Line Challenge - submitted a pull request](https://github.com/makersacademy/clmystery/pull/2680)
+* [Completed Ruby Mastery Quizzes](https://github.com/maddc0de/mastery-quizzes)
+* [First attempt at pair-programming](https://github.com/maddc0de/fizzbuzz)
+* [Created a command line app](https://github.com/maddc0de/student-directory)
 
 ### Week 1 and 2 Golden Square
+
+-----
 
 **Objective:**
 
@@ -72,26 +67,24 @@ This is where I document and keep track of my goals and progress.
 [x] Learn to explain why test-driving, object-oriented design, debugging, and pairing are powerful practices for software engineers.
 
 **For more details:**
-[Week 1]()
-[Week 2]()
+[Week 1](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week1)
+[Week 2](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week2)
 
 **Evidence**
 
-[Testing Bites](https://github.com/maddc0de/testing-bites)
-
-[Test-drived a Multi-Class System](https://github.com/maddc0de/test-drive-multi-class-system)
-
-[Designed a Multi-Class System](https://github.com/maddc0de/design-multi-class-system)
-
-[Intermezzo Debugging](https://github.com/maddc0de/intermezzo-debugging)
+* [Testing Bites](https://github.com/maddc0de/testing-bites)
+* [Test-drived a Multi-Class System](https://github.com/maddc0de/test-drive-multi-class-system)
+* [Designed a Multi-Class System](https://github.com/maddc0de/design-multi-class-system)
+* [Intermezzo Debugging](https://github.com/maddc0de/intermezzo-debugging)
 
 [Mocking Bites](https://github.com/maddc0de/mocking-bites)
 
 [Golden Square Solo Project](https://github.com/maddc0de/golden-square-takeaway-project)
 
+### Week 3 Databases
+
 -----
 
-### Week 3 Databases
 Learning the fundamentals of working with relational databases
 
 **Objective:**
@@ -104,19 +97,18 @@ Learning the fundamentals of working with relational databases
 
 [x] Explain how my program communicates with the database by creating a sequence diagram.
 
-[Week 3]()
+[Week 3](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week3)
 
 **Evidence**
 
-[Designed a Schema](https://github.com/maddc0de/designing-schema-in-database)
+* [Designed a Schema](https://github.com/maddc0de/designing-schema-in-database)
+* [Test-drived and designed a Repository Class I](https://github.com/maddc0de/music-library)
+* [Test-drived and designed a Repository Class II](https://github.com/maddc0de/book-store)
 
-[Test-drived and designed a Repository Class I](https://github.com/maddc0de/music-library)
-
-[Test-drived and designed a Repository Class II](https://github.com/maddc0de/book-store)
+### Week 4 Web Applications
 
 -----
 
-### Week 4 Web Applications
 Learning the fundamentals of working with relational databases
 
 **Objective:**
@@ -129,19 +121,18 @@ Learning the fundamentals of working with relational databases
 
 [x] Follow a debugging process for a web application
 
-[Week 4]()
+[Week 4](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week4)
 
 **Evidence**
 
-[Test-drived Web Routes](https://github.com/maddc0de/music-library)
+* [Test-drived Web Routes](https://github.com/maddc0de/music-library)
+* [Debugged Web Applications](https://github.com/maddc0de/web-applications/tree/main/projects_to_debug)
+* [Used ERB to return dynamic HTML](https://github.com/maddc0de/music-library-database-app)
 
-[Debugged Web Applications](https://github.com/maddc0de/web-applications/tree/main/projects_to_debug)
-
-[Used ERB to return dynamic HTML](https://github.com/maddc0de/music-library-database-app)
+### Week 5 Consolidate Learning
 
 -----
 
-### Week 5 Consolidate Learning
 Because of bank holidays, we were given more time to consolidate our learning. I have used this time to go back to the challenges that I didn't manage to complete in the past modules, further developed some projects, organise my notes and reflect.
 
 **Objective:**
@@ -152,34 +143,34 @@ Because of bank holidays, we were given more time to consolidate our learning. I
 
 [ ] Complete the Solo Project in the Databases Modules
 
-[Week 5]()
+[Week 5](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week5)
 
 **Evidence**
 
-[Deployed a web application on Render](https://github.com/maddc0de/music-library)
-
-[Web Applications Solo Project]()
-
-[Databases Solo Project](https://github.com/maddc0de/shop-manager-challenge)
-
------
+* [Deployed a web application on Render](https://github.com/maddc0de/music-library)
+* [Web Applications Solo Project]()
+* [Databases Solo Project](https://github.com/maddc0de/shop-manager-challenge)
 
 ### Week 6 Group Engineering Project I
+
+-----
 
 **Objective:**
 [x] 
 
-[Week 6]()
+[Week 6](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week6)
 
 **Evidence**
-[text](url)
+* [text](url)
 
 -----
 -----
 
-#### I can make a software
+### I can make a software
 
-[ ] I can TDD anything
+-----
+
+* [ ] I can TDD anything
 
 To take specifications (user stories) and behavioural descriptions it provides to guide the test I write first and then the code I write to pass that test:
 
@@ -190,7 +181,7 @@ This include writing tests that are:
 > isolated (unit tests),
 > more readable by following a consistent format and writing clear descriptions of the tests
 
-[ ] I can program fluently
+* [ ] I can program fluently
 
 This involves being able to breakdown a problem effectively. 
 
@@ -204,21 +195,21 @@ To be able to understand other people's code and effectively pair program.
 
 To be capable of learning new programming languages and frameworks.
 
-[ ] I can debug anything
+* [ ] I can debug anything
 
 To use a methodical process to identify the error and fix the issue.
 
 To get visibilty -tighten the loop
 
-[ ] I can model anything
+* [ ] I can model anything
 
 To be able to break down a problem in order to plan a program/system through modelling. This involves being able to diagram effectively how the program/system works/will work, and how it interacts with each other
 
-[ ] I can refactor anything
+* [ ] I can refactor anything
 
 <!-- To making the code more readable, easier to change, and ensuring the practices of DRY code, single responsibility and testing in isolation are implemented as much as is practical. -->
 
-[ ] I have a methodical approach to solving problems
+* [ ] I have a methodical approach to solving problems
 
 BREAKDOWN PROCESS:
 
@@ -239,27 +230,29 @@ BREAKDOWN PROCESS:
 
 8. Plan and Model the Pages and Routes
 
-#### I'm equipped for long term growth
+### I'm equipped for long term growth
 
-[ ] I manage my own wellbeing
+-----
 
-[ ] I can learn anything by myself
+* [ ] I manage my own wellbeing
+* [ ] I can learn anything by myself
 
 <!-- To be able to learn anything is to be able to solve a problem in an unfamiliar context. Solving the problem will enable me to learn about that context. This is known as problem-centred learning - learning to solve a problem, rather than learning a subject.
 
 To practice problem-centred learning I have taken problems I have solved previously and solved them again in different contexts (in different languages and technologies). This allows me to use and experiment with familiar patterns and techniques without the added uncertainty of the problem itself. -->
 
-#### I help my teams succeed
+### I help my teams succeed
 
-[ ] I use an agile product development process**
+-----
 
-[ ] I write code that is easy to change**
-
-[ ] I can justify the way I work**
-
-[ ] I grow collaboratively**
+* [ ] I use an agile product development process
+* [ ] I write code that is easy to change
+* [ ] I can justify the way I work
+* [ ] I grow collaboratively
 
 -----
 -----
 
 ## Processes
+
+-----
