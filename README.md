@@ -11,20 +11,20 @@ This is where I document and keep track of my goals and progress.
 
 -----
 
-* [Precourse](https://github.com/maddc0de/learning-journey-at-makers###Precourse)
-* [Week 1 and 2 - Golden Square](https://github.com/maddc0de/learning-journey-at-makers###Week-1-and-2-Golden-Square)
-* [Week 3 - Databases](https://github.com/maddc0de/learning-journey-at-makers###Week-3-Databases)
-* [Week 4 - Web Applications](https://github.com/maddc0de/learning-journey-at-makers###Week-4-Web-Applications)
-* [Week 5 - Consolidate Learning](https://github.com/maddc0de/learning-journey-at-makers###Week-5-Consolidate-Learning)
-* [Week 6 - Group Engineering Project I](https://github.com/maddc0de/learning-journey-at-makers###Week-6-Engineering-Project-I)
+* [Precourse](https://github.com/maddc0de/learning-journey-at-makers#Precourse)
+* [Week 1 and 2 - Golden Square](https://github.com/maddc0de/learning-journey-at-makers#Week-1-and-2-Golden-Square)
+* [Week 3 - Databases](https://github.com/maddc0de/learning-journey-at-makers#Week-3-Databases)
+* [Week 4 - Web Applications](https://github.com/maddc0de/learning-journey-at-makers#Week-4-Web-Applications)
+* [Week 5 - Consolidate Learning](https://github.com/maddc0de/learning-journey-at-makers#Week-5-Consolidate-Learning)
+* [Week 6 - Group Engineering Project I](https://github.com/maddc0de/learning-journey-at-makers#Week-6-Engineering-Project-I)
 
 ## Course goals
 
 -----
 
-* [I can make a software](###I-can-make-a-software)
-* [I am equipped for long term growth](###I'm-equipped-for-long-term-growth)
-* [I help my teams succeed](###I-help-my-teams-succeed)
+* [I can make a software](#I-can-make-a-software)
+* [I am equipped for long term growth](#I'm-equipped-for-long-term-growth)
+* [I help my teams succeed](#I-help-my-teams-succeed)
 
 -----
 -----
@@ -56,15 +56,11 @@ This is where I document and keep track of my goals and progress.
 
 **Objective:**
 
-[x] Learn to test-drive programs with multiple classes.
-
-[x] Learn to break programs up into classes.
-
-[x] Learn to debug your programs.
-
-[x] Learn to build software as a pair.
-
-[x] Learn to explain why test-driving, object-oriented design, debugging, and pairing are powerful practices for software engineers.
+* [x] Learn to test-drive programs with multiple classes.
+* [x] Learn to break programs up into classes.
+* [x] Learn to debug your programs.
+* [x] Learn to build software as a pair.
+* [x] Learn to explain why test-driving, object-oriented design, debugging, and pairing are powerful practices for software engineers.
 
 **For more details:**
 [Week 1](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week1)
@@ -89,13 +85,10 @@ Learning the fundamentals of working with relational databases
 
 **Objective:**
 
-[x] Design a database schema with at least two tables from a specification, including a one-to-many relationship between two tables, and create the schema in a database using SQL.
-
-[x] Use SQL to query a database to read data from one table or resulting of a join, create new records, update and delete.
-
-[x] Integrate a relational database to a program by test-driving classes which implement CRUD methods to send SQL queries to a database.
-
-[x] Explain how my program communicates with the database by creating a sequence diagram.
+* [x] Design a database schema with at least two tables from a specification, including a one-to-many relationship between two tables, and create the schema in a database using SQL.
+* [x] Use SQL to query a database to read data from one table or resulting of a join, create new records, update and delete.
+* [x] Integrate a relational database to a program by test-driving classes which implement CRUD methods to send SQL queries to a database.
+* [x] Explain how my program communicates with the database by creating a sequence diagram.
 
 [Week 3](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week3)
 
@@ -113,13 +106,10 @@ Learning the fundamentals of working with relational databases
 
 **Objective:**
 
-[x] Explain how HTTP requests and responses work at a high level
-
-[x] Write integration tests for a web application
-
-[x] Implement web routes using a lightweight web framework
-
-[x] Follow a debugging process for a web application
+* [x] Explain how HTTP requests and responses work at a high level
+* [x] Write integration tests for a web application
+* [x] Implement web routes using a lightweight web framework
+* [x] Follow a debugging process for a web application
 
 [Week 4](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week4)
 
@@ -137,11 +127,9 @@ Because of bank holidays, we were given more time to consolidate our learning. I
 
 **Objective:**
 
-[x] Deploy a web application using a light cloud service such as Render
-
-[x] Update my learning tracker in Github
-
-[ ] Complete the Solo Project in the Databases Modules
+* [x] Deploy a web application using a light cloud service such as Render
+* [x] Update my learning tracker in Github
+* [ ] Complete the Solo Project in the Databases Modules
 
 [Week 5](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week5)
 
@@ -156,7 +144,7 @@ Because of bank holidays, we were given more time to consolidate our learning. I
 -----
 
 **Objective:**
-[x] 
+* [x] 
 
 [Week 6](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week6)
 
