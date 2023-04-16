@@ -2,21 +2,20 @@
 
 -----
 
-This is my learning journey at Makers Academy.
+This is my learning journey as part of the `March2023 cohort` at Makers Academy.
 This is where I document and keep track of my goals and progress.
-
 
 
 ## Weekly Outlines
 
 -----
 
-* [Precourse](https://github.com/maddc0de/learning-journey-at-makers#Precourse)
-* [Week 1 and 2 - Golden Square](https://github.com/maddc0de/learning-journey-at-makers#Week-1-and-2-Golden-Square)
-* [Week 3 - Databases](https://github.com/maddc0de/learning-journey-at-makers#Week-3-Databases)
-* [Week 4 - Web Applications](https://github.com/maddc0de/learning-journey-at-makers#Week-4-Web-Applications)
-* [Week 5 - Consolidate Learning](https://github.com/maddc0de/learning-journey-at-makers#Week-5-Consolidate-Learning)
-* [Week 6 - Group Engineering Project I](https://github.com/maddc0de/learning-journey-at-makers#Week-6-Engineering-Project-I)
+* 13/02-10/03 [Precourse](https://github.com/maddc0de/learning-journey-at-makers#Precourse)
+* 13/03-24/03 [Week 1 and 2 - Golden Square](https://github.com/maddc0de/learning-journey-at-makers#Week-1-and-2-Golden-Square)
+* 27/03-31/03 [Week 3 - Databases](https://github.com/maddc0de/learning-journey-at-makers#Week-3-Databases)
+* 03/04-11/04 [Week 4 - Web Applications](https://github.com/maddc0de/learning-journey-at-makers#Week-4-Web-Applications)
+* 12/04-14/04 [Week 5 - Consolidate Learning](https://github.com/maddc0de/learning-journey-at-makers#Week-5-Consolidate-Learning)
+* 17/04 - [Week 6 - Group Engineering Project I](https://github.com/maddc0de/learning-journey-at-makers#Week-6-Engineering-Project-I)
 
 ## Course goals
 
@@ -33,15 +32,14 @@ This is where I document and keep track of my goals and progress.
 
 -----
 
+Part time self led leaarning
+
 **Objective:**
 
-[x] Learn to use the command line(cl) such as using simple commands, switches to enhance command abilities, manipulate files from cl and modify permissions.
-
-[x] Learn to use Git such as using git commands, repositories and making pull requests.
-
-[x] Learn to use Ruby Language.
-
-[x] Pair Program on FizzBuzz.
+* [x] Learn to use the command line(cl) such as using simple commands, switches to enhance command abilities, manipulate files from cl and modify permissions.
+* [x] Learn to use Git such as using git commands, repositories and making pull requests in Github.
+* [x] Learn to use Ruby Language.
+* [x] Pair Program on FizzBuzz.
 
 **Evidence**
 
@@ -72,10 +70,8 @@ This is where I document and keep track of my goals and progress.
 * [Test-drived a Multi-Class System](https://github.com/maddc0de/test-drive-multi-class-system)
 * [Designed a Multi-Class System](https://github.com/maddc0de/design-multi-class-system)
 * [Intermezzo Debugging](https://github.com/maddc0de/intermezzo-debugging)
-
-[Mocking Bites](https://github.com/maddc0de/mocking-bites)
-
-[Golden Square Solo Project](https://github.com/maddc0de/golden-square-takeaway-project)
+* [Mocking Bites](https://github.com/maddc0de/mocking-bites)
+* [Golden Square Solo Project](https://github.com/maddc0de/golden-square-takeaway-project)
 
 ### Week 3 Databases
 
@@ -149,7 +145,7 @@ Because of bank holidays, we were given more time to consolidate our learning. I
 [Week 6](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week6)
 
 **Evidence**
-* [text](url)
+* [Project](url)
 
 -----
 -----
