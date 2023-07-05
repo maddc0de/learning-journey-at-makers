@@ -3,21 +3,21 @@
 4 Key Software Engineering Practices:
 
 1. TEST DRIVING - Test Driven Development: test first then make it pass on the production code. The test ‘drive’ the implementation
-
 2. OBJECT-ORIENTED DESIGN - structuring code using objects and classes. Software is created by creating a system of classes that interact to perform the job of the software
-
 3. DEBUGGING - a collection of diff approaches for dealing with situations when code does something I don't intend to for reasons I don’t understand.
-
 4. PAIRING - pair programming
 
-# CONTENTS
+## Contents
 
 ---
+---
 
-* [Weekly Goals](#Weekly-Goals)
-* [Daily Goals](#Daily-Goals)
-* [Reflections](#Reflections)
-* [Useful Tips](#Useful-Tips)
+* [Weekly Goals](#weekly-goals)
+* [Daily Goals](#daily-goals)
+* [Reflections](#reflections)
+* [Useful Tips](#useful-tips)
+
+---
 
 ## Weekly Goals
 
@@ -55,11 +55,11 @@
 
 ### 16th March
 
-* [x] complete [process feedback challenge]() with audio on designing a singled method program
+* [x] complete [process feedback challenge](https://github.com/maddc0de/design-single-method/blob/main/lib/challenge.rb) with audio on designing a single method program
 
 ### 17th March
 
-[x] complete the other [process feedback challenge]() on designing a single Class program
+[x] complete the other [process feedback challenge](https://github.com/maddc0de/design-a-single-class-program/blob/main/lib/music-tracker.rb) on designing a single Class program
 
 ---
 
@@ -99,7 +99,6 @@ First retrospective with my cohort and we filled in a retro board as a group. Mo
 
 4. What could you do differently next week? 'set boundaries with pairing expectations (break times etc)'
 
-
 <!-- revisit OOP: Encapsulation - protects data and promotes modularity for better code organisation
 -read a bit about functional programming (pure functions, side-effects)
 -experiment with regex -->
@@ -108,8 +107,8 @@ First retrospective with my cohort and we filled in a retro board as a group. Mo
 
 ## Useful Tips
 
-* In Rspec, The purpose of “describe” is to wrap a set of tests against one functionality while “context” is to wrap a set of tests against one functionality under the same state.
+* In RSpec, The purpose of “describe” is to wrap a set of tests against one functionality while “context” is to wrap a set of tests against one functionality under the same state.
 
-* require_relative ‘path/to/folder’ is more robust than require keyword
+* `require_relative` ‘path/to/folder’ is more robust than `require` keyword
 
-* Referential transparency - important practice and concept!
+* Referential transparency - important practice and concept

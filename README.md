@@ -5,147 +5,260 @@
 This is my learning journey as part of the `March2023 cohort` at Makers Academy.
 This is where I document and keep track of my goals and progress.
 
-
 ## Weekly Outlines
 
 -----
-
-* 13/02-10/03 [Precourse](https://github.com/maddc0de/learning-journey-at-makers#Precourse)
-* 13/03-24/03 [Week 1 and 2 - Golden Square](https://github.com/maddc0de/learning-journey-at-makers#Week-1-and-2-Golden-Square)
-* 27/03-31/03 [Week 3 - Databases](https://github.com/maddc0de/learning-journey-at-makers#Week-3-Databases)
-* 03/04-11/04 [Week 4 - Web Applications](https://github.com/maddc0de/learning-journey-at-makers#Week-4-Web-Applications)
-* 12/04-14/04 [Week 5 - Consolidate Learning](https://github.com/maddc0de/learning-journey-at-makers#Week-5-Consolidate-Learning)
-* 17/04 - [Week 6 - Group Engineering Project I](https://github.com/maddc0de/learning-journey-at-makers#Week-6-Engineering-Project-I)
-
-## Course goals
-
 -----
 
-* [I can make a software](#I-can-make-a-software)
-* [I am equipped for long term growth](#I'm-equipped-for-long-term-growth)
-* [I help my teams succeed](#I-help-my-teams-succeed)
+* 13/02-10/03 [4 weeks Precourse](#precourse)
+* 13/03-24/03 [Week 1 and 2 - Golden Square](#week-1-and-2-golden-square)
+* 27/03-31/03 [Week 3 - Databases](#week-3-databases)
+* 03/04-11/04 [Week 4 - Web Applications](#week-4-web-applications)
+* 12/04-14/04 [Week 4.5 - Consolidate Learning](#week-4.5-consolidate-learning)
+* 17/04-21/04 [Week 5 - Group Engineering Project I](#week-5-engineering-project-i)
+* 24/04-28/04 [Week 6 - JavaScript Fundamentals](#week-6-javascript-fundamentals)
+* 02/05-05/05 [Week 7 - JavaScript Web Frontend Applications](#week-7-javascript-web-frontend-applications)
+* 09/05-19/05 [Week 8 and 9 - Group Engineering Project II](#week-8-and-9-engineering-project-ii)
+* 22/05-26/05 [Week 10 - Code Quality Week](#week-10-code-quality-week)
+* 30/05-09/06 [Week 11 and 12 - Group Engineering Project III](#week-11-and-12-engineering-project-iii)
+
+## Course Goals
 
 -----
 -----
 
-### Precourse
+* [I can make a software](#i-can-make-a-software)
+* [I am equipped for long term growth](#im-equipped-for-long-term-growth)
+* [I help my teams succeed](#i-help-my-teams-succeed)
+
+## Precourse
 
 -----
+-----
 
-Part time self led leaarning
+4 weeks of Part time self-led learning
 
-**Objective:**
+* **Goals:**
 
-* [x] Learn to use the command line(cl) such as using simple commands, switches to enhance command abilities, manipulate files from cl and modify permissions.
-* [x] Learn to use Git such as using git commands, repositories and making pull requests in Github.
-* [x] Learn to use Ruby Language.
-* [x] Pair Program on FizzBuzz.
+  * Learn to use the command line(cl) to navigate to file directories, manipulate files, use switches to enhance command abilities, and modify permissions.
+  * Learn to use Git such as using git commands, repositories and making pull requests in Github.
+  * Learn to use Ruby Language.
+  * Pair Program on FizzBuzz.
 
-**Evidence**
+* **For more details:**
+[Precourse week 1-4](https://github.com/maddc0de/learning-journey-at-makers/tree/main/precourse-week1-4)
 
-* [Solved Command Line Challenge - submitted a pull request](https://github.com/makersacademy/clmystery/pull/2680)
-* [Completed Ruby Mastery Quizzes](https://github.com/maddc0de/mastery-quizzes)
-* [First attempt at pair-programming](https://github.com/maddc0de/fizzbuzz)
-* [Created a command line app](https://github.com/maddc0de/student-directory)
+* **Evidence**
+
+  * [Solved Command Line Challenge - submitted a pull request](https://github.com/makersacademy/clmystery/pull/2680)
+  * [Completed Ruby Mastery Quizzes](https://github.com/maddc0de/mastery-quizzes)
+  * [First attempt at pair-programming](https://github.com/maddc0de/fizzbuzz)
+  * [Created a command line application](https://github.com/maddc0de/student-directory)
+
+## Full-Time Course
+
+-----
+-----
 
 ### Week 1 and 2 Golden Square
 
 -----
 
-**Objective:**
+* **Goals:**
+  * Learn to test-drive programs with multiple classes.
+  * Learn to break programs up into classes.
+  * Learn to debug your programs.
+  * Learn to build software as a pair.
+  * Learn to explain why test-driving, object-oriented design, debugging, and pairing are powerful practices for software engineers.
 
-* [x] Learn to test-drive programs with multiple classes.
-* [x] Learn to break programs up into classes.
-* [x] Learn to debug your programs.
-* [x] Learn to build software as a pair.
-* [x] Learn to explain why test-driving, object-oriented design, debugging, and pairing are powerful practices for software engineers.
-
-**For more details:**
+* **For more details:**
 [Week 1](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week1)
 [Week 2](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week2)
 
-**Evidence**
+* **Evidence**
 
-* [Testing Bites](https://github.com/maddc0de/testing-bites)
-* [Test-drived a Multi-Class System](https://github.com/maddc0de/test-drive-multi-class-system)
-* [Designed a Multi-Class System](https://github.com/maddc0de/design-multi-class-system)
-* [Intermezzo Debugging](https://github.com/maddc0de/intermezzo-debugging)
-* [Mocking Bites](https://github.com/maddc0de/mocking-bites)
-* [Golden Square Solo Project](https://github.com/maddc0de/golden-square-takeaway-project)
+  * [Testing Bites](https://github.com/maddc0de/testing-bites)
+  * [Test-drived a Multi-Class System](https://github.com/maddc0de/test-drive-multi-class-system)
+  * [Designed a Multi-Class System](https://github.com/maddc0de/design-multi-class-system)
+  * [Intermezzo Debugging](https://github.com/maddc0de/intermezzo-debugging)
+  * [Mocking Bites](https://github.com/maddc0de/mocking-bites)
+  * [Golden Square Solo Project](https://github.com/maddc0de/golden-square-takeaway-project)
 
 ### Week 3 Databases
 
 -----
 
-Learning the fundamentals of working with relational databases
+Learning the fundamentals of relational databases
 
-**Objective:**
+* **Goals:**
 
-* [x] Design a database schema with at least two tables from a specification, including a one-to-many relationship between two tables, and create the schema in a database using SQL.
-* [x] Use SQL to query a database to read data from one table or resulting of a join, create new records, update and delete.
-* [x] Integrate a relational database to a program by test-driving classes which implement CRUD methods to send SQL queries to a database.
-* [x] Explain how my program communicates with the database by creating a sequence diagram.
+  * Design a database schema with at least two tables from a specification, including a one-to-many relationship between two tables, and create the schema in a database using SQL.
+  * Use SQL to query a database to read data from one table or resulting of a join, create new records, update and delete.
+  * Integrate a relational database to a program by test-driving classes which implement CRUD methods to send SQL queries to a database.
+  * Explain how my program communicates with the database by creating a sequence diagram.
 
+* **For more details:**
 [Week 3](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week3)
 
-**Evidence**
+* **Evidence**
 
-* [Designed a Schema](https://github.com/maddc0de/designing-schema-in-database)
-* [Test-drived and designed a Repository Class I](https://github.com/maddc0de/music-library)
-* [Test-drived and designed a Repository Class II](https://github.com/maddc0de/book-store)
+  * [Designed a Schema](https://github.com/maddc0de/designing-schema-in-database)
+  * [Test-drived and designed a Repository Class I](https://github.com/maddc0de/music-library)
+  * [Test-drived and designed a Repository Class II](https://github.com/maddc0de/book-store)
 
 ### Week 4 Web Applications
 
 -----
 
-Learning the fundamentals of working with relational databases
+Learning the fundamentals of web applications development
 
-**Objective:**
+* **Goals:**
 
-* [x] Explain how HTTP requests and responses work at a high level
-* [x] Write integration tests for a web application
-* [x] Implement web routes using a lightweight web framework
-* [x] Follow a debugging process for a web application
+  * Explain how HTTP requests and responses work at a high level
+  * Write integration tests for a web application
+  * Implement web routes using a lightweight web framework
+  * Follow a debugging process for a web application
 
+* **For more details:**
 [Week 4](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week4)
 
-**Evidence**
+* **Evidence**
 
-* [Test-drived Web Routes](https://github.com/maddc0de/music-library)
-* [Debugged Web Applications](https://github.com/maddc0de/web-applications/tree/main/projects_to_debug)
-* [Used ERB to return dynamic HTML](https://github.com/maddc0de/music-library-database-app)
+  * [Test-drived Web Routes](https://github.com/maddc0de/music-library)
+  * [Debugged Web Applications](https://github.com/maddc0de/web-applications/tree/main/projects_to_debug)
+  * [Used ERB to return dynamic HTML](https://github.com/maddc0de/music-library-database-app)
 
-### Week 5 Consolidate Learning
+### Week 4.5 Consolidate Learning
 
 -----
 
-Because of bank holidays, we were given more time to consolidate our learning. I have used this time to go back to the challenges that I didn't manage to complete in the past modules, further developed some projects, organise my notes and reflect.
+Because of bank holidays, we were given more time to consolidate our learning. I have used this time to revisit and work on the challenges that I didn't manage to complete in the past modules, further developed some projects, organised my notes and reflected on my learnings.
 
-**Objective:**
+* **Goals:**
 
-* [x] Deploy a web application using a light cloud service such as Render
-* [x] Update my learning tracker in Github
-* [ ] Complete the Solo Project in the Databases Modules
+  * Deploy a web application using a light cloud service such as Render
+  * Update my learning tracker in Github
+  * Update my learning notes in Google Docs
 
+* **For more details:**
+[Week 4.5](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week4.5)
+
+* **Evidence**
+
+  * [Deployed a web application on Render](https://md-chitter-app.onrender.com/)
+
+### Week 5 Engineering Project I
+
+-----
+
+First Group Engineering Project in Makers Bootcamp. This project is a small clone of Airbnb.
+
+* **Goals:**
+
+  * Learn to work and communicate effectively as part of a team to build a web application.
+  * Learn to break down project into tasks and assign them to pairs.
+  * Learn to use agile ceremonies to organise your work and improve your processes.
+  * Learn to use the developer workflow to plan, implement and peer-review features.
+
+* **For more details:**
 [Week 5](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week5)
 
-**Evidence**
+* **Evidence**
 
-* [Deployed a web application on Render](https://github.com/maddc0de/music-library)
-* [Web Applications Solo Project]()
-* [Databases Solo Project](https://github.com/maddc0de/shop-manager-challenge)
+  * [Engineering Project I: Makersbnb](https://github.com/maddc0de/makersbnb)
 
-### Week 6 Group Engineering Project I
+### Week 6 JavaScript Fundamentals
 
 -----
 
-**Objective:**
-* [x] 
+Learning the fundamentals of JavaScript how to use Javascript to build programs running in `node`.
 
+* **Goals:**
+
+  * Test-drive a simple Javascript program using Node
+  * Explain how asynchronous programming is different from synchronous, blocking programming
+  * Apply a coherent process to learn a new language
+
+* **For more details:**
 [Week 6](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week6)
 
-**Evidence**
-* [Project](url)
+* **Evidence**
+
+  * [phase one](https://github.com/maddc0de/javascript-fundamentals-I)
+  * [phase two](https://github.com/maddc0de/javascript-fundamentals-II)
+  * [Bowling Scorecard](https://github.com/maddc0de/bowling-challenge)
+
+### Week 7 Javascript Web Frontend Applications
+
+-----
+
+Learning how to use JavaScript to build interactive web applications
+
+* **Goals:**
+
+  * Test-drive a simple Javascript program running in a web browser, using modern JS build tools.
+  * Use the DOM API to manipulate the web page structure and content.
+  * Use fetch to send HTTP requests to a remote server.
+
+* **For more details:**
+[Week 7](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week7)
+
+* **Evidence**
+
+  * [notes app](https://github.com/maddc0de/notes-app)
+  * [JavaScript web apps](https://github.com/maddc0de/javascript-web-apps)
+
+### Week 8 and 9 Engineering Project II
+
+-----
+
+Second group Engineering Project in Makers Bootcamp. This project is a MERN stack web application that emulates key features of Facebook.
+
+* **Goals:**
+
+  * Help my team suceed
+  * Familiarise with the inherited codebase
+  * Enhance and Expand the existing application
+
+* **For more details:**
+[Week 8-9](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week8-9)
+
+* **Evidence**
+
+  * [Engineering Project II: Acebook](https://github.com/maddc0de/acebook)
+
+### Week 10 Code Quality Week
+
+-----
+
+* **Goals:**
+
+  * Solve a tech test with well crafted code (well tested, easy to read and easy to change)
+  * Book and participate in a code review
+
+* **For more details:**
+[Week 10](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week10)
+
+* **Evidence**
+
+  * [Bank Tech Test](https://github.com/maddc0de/bank-tech-test)
+
+### Week 11 and 12 Engineering Project III
+
+-----
+
+* **Goals:**
+
+  * Good distribution of work: every member of the team can explain why and how the application works
+  * Good quality of work: commit often and commit messages are clear
+  * Good documentation: up-to-date README with project description, how to install and run it, and how to run tests
+
+* **For more details:**
+[Week 11-12](https://github.com/maddc0de/learning-journey-at-makers/tree/main/week11-12)
+
+* **Evidence**
+
+  * [Engineering Project III: Foodshare](https://github.com/maddc0de/foodshare)
 
 -----
 -----
@@ -154,89 +267,78 @@ Because of bank holidays, we were given more time to consolidate our learning. I
 
 -----
 
-* [ ] I can TDD anything
+* I can TDD anything:
 
-To take specifications (user stories) and behavioural descriptions it provides to guide the test I write first and then the code I write to pass that test:
+> I take specifications (user stories) and behavioural descriptions provided to guide the test I write first and then the code I write to pass that test. Following the `red`, `green` cycle then `refactor` when needed for a minimal and well-designed code, with maximum test coverage.
+>
+>This include writing tests that are:
+>
+> * easy to change,
+> * isolated (unit tests),
+> * more readable by following a consistent format and writing clear descriptions of the tests
 
-following the ==red==, ==green== cycle then refactor when needed for a minimal and well-designed code, with maximum test coverage.
+* I can program fluently
 
-This include writing tests that are:
-> easy to change,
-> isolated (unit tests),
-> more readable by following a consistent format and writing clear descriptions of the tests
+> I have the ability to breakdown a problem effectively.
+>
+> I have a solid grasp of fundamental programming concepts such as Data types, Variables, Control Structures, Functions, Object-Oriented Programming and Debugging.  This understanding allows me to leverage syntax and semantics of programming languages to tackle problems and develop web applications.
+>
+> I am capable of writing clean, concise and well-organised code that is easy to understand and maintain.
+> I am able to understand and collaborate with others on their code through effective pair programming.
+> I have the aptitude to quickly learn new programming languages and frameworks.
 
-* [ ] I can program fluently
+* I can debug anything
 
-This involves being able to breakdown a problem effectively. 
+> I have a systematic process to identify error and fix the issue. This involves reproducing the error to identify the specific steps or inputs that triggers the problem combined with getting visibility (for example console logging values in Javascript) helps to isolate the problem and understand its scope.
+> This may also involve gathering relevant information as much as possible about the error - understanding the error messages and any other available logs or output.
+> Additionally, testing edge cases and different inputs helps me identify scenarios where my code may fail or produce incorrect results.
 
-To have a solid grasp of fundamental programming concepts such as Data types, Variables, Control Structures, Functions, Object-Oriented Programming and Debugging.
+* I can model anything
 
-To have a good understanding of the syntax and semantics of a language, enabling me to leverage these tools to tackle problems and build web applications.
+> I am able to effectively model and plan programs or systems by breaking down problems. Creating clear diagrams, I can effectively illustrate how different parts of the program or system work together and interact with each other. This allows me to create detailed models that help with planning and development, making the process easier to understand and implement.
 
-To be capable of writing clean, concise and well-organised code that is easy to understand and maintain.
+* I can refactor anything
 
-To be able to understand other people's code and effectively pair program.
+>I have the ability to refactor code, making it more readable, maintainable, and adhering to best practices such as DRY (Don't Repeat Yourself), single responsibility, and testability in isolation. By restructuring the code, I ensure that it is easier to understand, modify, and avoids unnecessary duplication.
 
-To be capable of learning new programming languages and frameworks.
+* I have a methodical approach to solving problems
 
-* [ ] I can debug anything
-
-To use a methodical process to identify the error and fix the issue.
-
-To get visibilty -tighten the loop
-
-* [ ] I can model anything
-
-To be able to break down a problem in order to plan a program/system through modelling. This involves being able to diagram effectively how the program/system works/will work, and how it interacts with each other
-
-* [ ] I can refactor anything
-
-<!-- To making the code more readable, easier to change, and ensuring the practices of DRY code, single responsibility and testing in isolation are implemented as much as is practical. -->
-
-* [ ] I have a methodical approach to solving problems
-
-BREAKDOWN PROCESS:
-
-1. from user stories, extract nouns and verbs from the user story: nouns = objects,  verbs = messages / methods to send to the objects
-(can build a table diagram to understand it)
-
- Object | Methods
-    -------------------- | -----------------------
-    diary | read
-    diary entry | add
-
-4. map the `methods` to `objects` to see which messages can be sent to which objects
-5. draw out how they need to interact (and how the individual objects should encapsulate their concerns)
-
-6. write down series of simples things to build up from (TESTS)
-
-7. Plan and Model the Class Systems
-
-8. Plan and Model the Pages and Routes
+> BREAKDOWN PROCESS:
+>
+> 1. Extract nouns and verbs from user stories: Identify the objects (nouns) and the actions (verbs/methods) required by analyzing the user stories. Creating a table diagram can help visualize this information.
+>
+> Object      | Methods
+> ----------- | ------------
+> diary       | read
+> diary entry | add
+>
+> 2. Map `methods` to `objects`: Determine which objects can perform the required actions by mapping the methods to the corresponding objects. This helps identify see which methods can be sent to which objects
+> 3. Visualize object interactions: Draw out the interactions between the objects and how they encapsulate their responsibilities. This visualization helps understand the flow and relationships between different components.
+>
+> 4. Create a series of simple tests: Write down a set of simple test cases that gradually build up the functionality. These tests serve as a guide to ensure each component is implemented correctly and can be used for validation.
+>
+> 5. Plan and model the class systems: Design the class structure and relationships based on the identified objects and their interactions.
+>
+> 6. Plan and model the pages and routes: Determine the required pages and routes for the application based on user stories and the desired functionality. This helps create a clear plan for the user interface and navigation.
 
 ### I'm equipped for long term growth
 
 -----
 
-* [ ] I manage my own wellbeing
-* [ ] I can learn anything by myself
+* I manage my own wellbeing
 
-<!-- To be able to learn anything is to be able to solve a problem in an unfamiliar context. Solving the problem will enable me to learn about that context. This is known as problem-centred learning - learning to solve a problem, rather than learning a subject.
+> I engage in actiivies outside of programming such as working out, cooking and baking, and minfdulness to help me stay motivated and open to acquiring new skills and knowledge. It also helps me unwind and manage my stress levels.
 
-To practice problem-centred learning I have taken problems I have solved previously and solved them again in different contexts (in different languages and technologies). This allows me to use and experiment with familiar patterns and techniques without the added uncertainty of the problem itself. -->
+* I can learn anything by myself
+
+> When faced with unfamiliar technologies or problem domains, I embrace these challenges as opportunities for personal growth. I take it upon myself to explore and gain knowledge in new tools, platforms, and technologies independently. This adaptability enables me to readily embrace emerging technologies and deliver innovative solutions.
+> I take responsibility for my own learning journey and proactively seek out resources, setting goals and tracking my progress.
 
 ### I help my teams succeed
 
 -----
 
-* [ ] I use an agile product development process
-* [ ] I write code that is easy to change
-* [ ] I can justify the way I work
-* [ ] I grow collaboratively
-
------
------
-
-## Processes
-
------
+* I use an agile product development process
+* I write code that is easy to change
+* I can justify the way I work
+* I grow collaboratively

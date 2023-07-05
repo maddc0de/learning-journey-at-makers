@@ -1,12 +1,15 @@
 # WEEK 4 Web Applications
 
-# CONTENTS
+## Contents
 
 ---
+---
 
-* [Weekly Goals](#Weekly-Goals)
-* [Daily Goals](#Daily-Goals)
-* [Reflections](#Reflections)
+* [Weekly Goals](#weekly-goals)
+* [Daily Goals](#daily-goals)
+* [Reflections](#reflections)
+
+---
 
 ## Weekly Goals
 

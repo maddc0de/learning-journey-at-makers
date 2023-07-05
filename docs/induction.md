@@ -14,10 +14,10 @@ Let's get started.
 This is your induction. There are two parts:
 
 1. **The induction workshop.**
-   Your coach will take you through this. You can review the contents below.
+  Your coach will take you through this. You can review the contents below.
 
 2. **The induction checklist.**
-   You'll do this independently.
+  You'll do this independently.
 
 ## Induction Workshop
 

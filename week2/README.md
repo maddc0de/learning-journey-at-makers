@@ -1,12 +1,15 @@
 # WEEK 2 Golden Square
 
-# CONTENTS
+## CONTENTS
 
+---
 ---
 
 * [Weekly Goals](#weekly-goals)
 * [Daily Goals](#daily-goals)
 * [Reflections](#reflections)
+
+---
 
 ## Weekly Goals
 
@@ -83,7 +86,6 @@ Points that resonated with me the most in the retro:
 3. Shout out to the team 'Peer group was a source of pure positive wellbeing'
 
 4. Action points for the future 'Follow pair programming driver-navigator roles more closely'
-
 
 ## Useful Tips
 
