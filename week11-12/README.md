@@ -8,7 +8,6 @@
 * [Goals](#goals)
 * [Weekly Goals](#weekly-goals)
 * [Reflections](#reflections)
-* [Useful Tips](#useful-tips)
 
 ---
 
