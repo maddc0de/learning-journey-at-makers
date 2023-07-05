@@ -25,7 +25,7 @@
 * DAY 2-5: Challenges
 * Solo Challenge
 
-### Evidence
+## Evidence
 
 * [Designed a Schema](https://github.com/maddc0de/designing-schema-in-database)
 * [Test-drived and designed a Repository Class I](https://github.com/maddc0de/music-library)
@@ -38,9 +38,6 @@
 ### 28th March
 
 * [x] Complete all of phase one: SQL bites
-
-### 28th March
-
 * [x] Complete the first process feedback challenge in phase two
 
 
@@ -49,12 +46,12 @@
 * [x] Keep going with working through phase two
 
 
-### 16th March
+### 30th March
 
 * [x] Just keep up with it!
 
 
-### 17th March
+### 17t31sth March
 
 * [ ] Compelete all of phase two challenges
 
@@ -65,3 +62,11 @@
 I did not meet all my goals set for this week. There was a lot of things out of my control that were taking up more of my time and if I could change something and what I would want to improve on moving forward, is to be kinder to myself.
 
 I recalled on one of the EQ workshops where they said something about the course is more about learning than completion. Reflecting on my progress so far, I can confidently say that I have gained more knowledge today compared to what I knew last week.
+
+---
+---
+
+go back to weekly outline [here](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md)
+
+---
+---

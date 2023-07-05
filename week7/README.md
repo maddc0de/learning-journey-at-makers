@@ -19,12 +19,12 @@
 * [x] To be able to use `fetch` to send HTTP requests to a remote server.
 * [x] To be able to keep a minimal code structure for separation of concerns on a client-side JavaScript application.
 
-### Plan
+## Plan
 
 * Work through the different steps in sequence.
 * Familiarise and use Postman tool to call HTTP APIs
 
-### Evidence
+## Evidence
 
 * [Notes App](https://github.com/maddc0de/notes-app)
 * [JavaScript Web Apps](https://github.com/maddc0de/javascript-web-apps)
@@ -101,3 +101,11 @@ Looking ahead, there are a few areas where I could further improve. Firstly, I c
 > Controller class - acts as an intermediary between the Model and the View. It receives user input from the View, processes that input, and updates the Model accordingly. It also updates the View to reflect any changes in the Model. Essentially, the Controller handles the logic and coordination between the Model and the View. It ensures that the Model and View remain separate and independent, facilitating better code organization, maintainability, and reusability.
 
 * [Handle failed HTTP responses with fetch()](https://www.tjvantoll.com/2015/09/13/fetch-and-errors/)
+
+---
+---
+
+go back to weekly outline [here](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md)
+
+---
+---

@@ -2,7 +2,7 @@
 
 ## week 1 - Command Line, GIT for Version Vontrol
 
------
+---
 
 ### Goals
 
@@ -29,12 +29,12 @@
 * **Pipes** (`|` symbol is known as a "pipe") allows redirection of streams
 * **Wildcards**
 
------
------
+---
+---
 
 ## week 2-3 - Ruby with Mastery Learning
 
------
+---
 
 ### Goals
 
@@ -72,12 +72,12 @@ names #=> ["Jack", "John", "Alice"]
 * [Bizarre and entertaining Ruby Tutorial](http://poignant.guide/)
 * [Ruby methods cheatsheet](https://overapi.com/ruby)
 
------
------
+---
+---
 
 ## week 4 - Building Command Line Application, TDD, Pair-Programming
 
------
+---
 
 ### Goals
 
@@ -96,3 +96,12 @@ names #=> ["Jack", "John", "Alice"]
 ### Resources and other information
 
 * [Tuple pair-programming guide](https://tuple.app/pair-programming-guide)
+
+---
+---
+
+go back to weekly outline [here](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md)
+
+---
+---
+

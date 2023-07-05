@@ -18,13 +18,13 @@
 * [x] Explain how asynchronous programming is different from synchronous, blocking programming.
 * [x] Apply a coherent process to learn a new language.
 
-### Plan
+## Plan
 
 * complete phase one: basics of JavaScript
 * work through phase two: challenges designed to help me learn how to use Javascript in a real application
 * work on the solo challenge at the end of the week
 
-### Evidence
+## Evidence
 
 * [phase one](https://github.com/maddc0de/javascript-fundamentals-I)
 * [phase two](https://github.com/maddc0de/javascript-fundamentals-II)
@@ -83,3 +83,11 @@ Through trusting the learning process and diligently working through the module,
 > (you'll be prompted to install prettier if this is the first time you're running the command).
 >
 > If you don't want to overwrite files, but only check if they're properly formatted, you can use the `--check` option instead of `--write`.
+
+---
+---
+
+go back to weekly outline [here](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md)
+
+---
+---

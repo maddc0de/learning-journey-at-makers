@@ -15,12 +15,12 @@
 * [x] Complete Solo Project from the Web Application module
 * [x] Go through some phase three materials from the Database module
 
-### Plan
+## Plan
 
 * Deploy the solo project from Web Application module when completed in Render 
 * Update my learning tracker and revise learnings
 
-### Evidence
+## Evidence
 
 * [Web application on render](https://md-chitter-app.onrender.com/)
 * [Web application solo project repo](https://github.com/maddc0de/chitter-challenge)
@@ -64,3 +64,12 @@ Points that resonated with me the most in the retro:
 4. Start doing.. 'Feeling comfortable with not being in control of everything'
 
 5. Stop doing.. 'Beating myself up! We are learning and should remember that that means making mistakes and getting stuck'
+
+---
+---
+
+go back to weekly outline [here](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md)
+
+---
+---
+

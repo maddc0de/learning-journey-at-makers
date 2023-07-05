@@ -18,13 +18,13 @@
 * [x] Implement web routes using a lightweight web framework
 * [x] Follow a debugging process for a web application
 
-### Plan
+## Plan
 
 * Day 1 - complete phase one: HTTP
 * Day 2 & 3 - complete phase three: Sinatra Challenges
 * Day 4 & 5 - Complete at least up to challenge 5 on phase four: HTML & ERB
 
-### Evidence
+## Evidence
 
 * [Test-drived Web Routes](https://github.com/maddc0de/music-library)
 * [Debugged Web Applications](https://github.com/maddc0de/web-applications/tree/main/projects_to_debug)
@@ -65,3 +65,11 @@ Ended up pair programming on the first process feedback challenge. While we rece
 >' Make sure you use the syntax `post('/sort-names', names: "Joe,Alice,...")` instead of sending the POST request to the path `/sort-names?names=...`. The key difference is that the latter sends query parameters (as part of the URL), instead of body parameters. For POST requests, body parameters are usually preferred to query parameters'
 
 In summary, I am pleased with the progress I made in tackling the challenges and successfully achieving all of my goals for the week. Furthermore, the pair programming sessions throughout the week went well as we adhered to the driver-navigator roles for the majority of the time, whenever possible.
+
+---
+---
+
+go back to weekly outline [here](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md)
+
+---
+---

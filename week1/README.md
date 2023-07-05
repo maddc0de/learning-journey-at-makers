@@ -25,7 +25,7 @@
 * [x] learn basic TDD best practices
 * [x] Complete pair programming using GitHub
 
-### Plan
+## Plan
 
 * Create repository in GitHub that will contains files documenting my learning in Makers
 * work through phase one: testing bites
@@ -33,7 +33,7 @@
 * pair program!
 * attend workshops
 
-### Evidence
+## Evidence
 
 * [Testing Bites](https://github.com/maddc0de/testing-bites)
 * [Phase 2 - Test-drived a single method program](https://github.com/maddc0de/test-drive-a-single-method-program)
@@ -112,3 +112,11 @@ First retrospective with my cohort and we filled in a retro board as a group. Mo
 * `require_relative` ‘path/to/folder’ is more robust than `require` keyword
 
 * Referential transparency - important practice and concept
+
+---
+---
+
+go back to weekly outline [here](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md)
+
+---
+---

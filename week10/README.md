@@ -14,15 +14,15 @@
 
 * [x] Improve my object-oriented design and quality of my code
 * [x] Complete a tech-test
-* [x] Complete a [Code Review](url)
+* [x] Complete a [Code Review](https://github.com/maddc0de/learning-journey-at-makers/blob/main/docs/Review.md)
 
-### Plan
+## Plan
 
 * book a code review
 * tackle problems in codewars for at least one hour everyday
 * Take time planning how to implement the tech-test
 
-### Evidence
+## Evidence
 
 * [Bank Tech Test](https://github.com/maddc0de/bank-tech-test)
 
@@ -50,3 +50,11 @@
 One of my primary objectives was to enhance my object-oriented design skills and improve the quality of my code. To achieve this, I dedicated significant time to planning and designing the classes for the bank tech test. Although I didn't fully meet all the acceptance criteria, I am pleased with the progress I made. It allowed me to apply good design principles and make thoughtful decisions regarding code organisation and structure.
 
 Preparing for the code review was a nerve-wracking experience for me. However, I managed to gather myself and did better than I thought during the review. I approached the problem by breaking it down into smaller, manageable pieces and followed the red-green-refactor cycle. This iterative process ensured that I focused on writing just enough code to pass the tests during the Green phase and then refactored to improve the code's readability and maintainability. Going forward, I will remember to gather comprehensive information about the client's expectations and ask relevant questions to clarify expected behaviors past what have been mentioned in the brief and consider edge cases.
+
+---
+---
+
+go back to weekly outline [here](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md)
+
+---
+---

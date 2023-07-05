@@ -71,3 +71,11 @@ In conclusion, this project has provided me with valuable experience and growth 
 ## Useful Tips
 
 * [Engineering Project II guide](https://github.com/makersacademy/engineering-project-2)
+
+---
+---
+
+go back to weekly outline [here](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md)
+
+---
+---

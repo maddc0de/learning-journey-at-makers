@@ -16,7 +16,7 @@
 * [x] Learn to use agile ceremonies to organise your work and improve your processes.
 * [x] Learn to use the developer workflow to plan, implement and peer-review features.
 
-### Plan
+## Plan
 
 * Turn the headline specifications into user stories and create one Trello ticket in the column "Backlog (all TODO)".
 * Create a Trello board for the project
@@ -28,12 +28,15 @@
 > [Stand-up every morning](how_to_run_standup.md) (15mins)
 > [Retro at the end of a sprint](how_to_run_team_retro.md)
 
-### Evidence
+## Evidence
 
 * [Engineering Project I: Makersbnb](https://github.com/maddc0de/makersbnb)
-* [my group's trello board](group_trello_board.png)
-* [tables' structure](table-structure.png)
-* [routes planning](routes-planning.png)
+* My teams' trello board
+![trello board](group_trello_board.png)
+* Database Tables Planning
+![tables' structure](table-structure.png)
+* Routes Planning
+![routes planning](routes-planning.png)
 
 ---
 
@@ -93,11 +96,11 @@ In the end, our team accomplished the goal of having a minimum viable product (M
 `As a X, so that i can Y, I want to do Z`
 
 > Make sure each user story is small enough to be completable in less than half a day.
-
+>
 > Some items in the spec include more than one feature. e.g. "Any signed up user can list a new space". Break this into two user stories and prioritise the one that gets you as close as possible to a product.
-
+>
 > Use the customer's language (the domain language) in the user stories. Most words in the user stories should appear in the spec.
-
+>
 > Avoid splitting the work on the different "layers" of the program (e.g one pair working on the HTML view and one pair working on the Sinatra code). When working on a user story, you will have to work on all these different components — a feature will involve work on all the different layers of your web application.
 
 ### Creating tickets from the tasks
@@ -109,10 +112,13 @@ In the end, our team accomplished the goal of having a minimum viable product (M
 > Acceptance criteria is useful to answer some key questions to you should have at the beginning - what will tell you that this feature is definitely completed? For example, with our navigation bar, is it that it allows us to navigate to the right pages, or is that it has the correct styling with agreed theme colours?
 >
 > Testing this is part of acceptance criteria but deserves its own category. It can make a world of difference to think about what kind of tests you want to include as part of a particular feature, and will again bring your focus from the beginning to TDD.
-> 
+>
 > Documentation / Links and any other additional information that will help the developer working on the ticket complete the task e.g. a great tutorial, a template for a navigation bar, the file path for useful code to complete this ticket.
 
+---
+---
 
-WEEKEND CHALLENGE:
+go back to weekly outline [here](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md)
 
-Bowling challenge 
+---
+---

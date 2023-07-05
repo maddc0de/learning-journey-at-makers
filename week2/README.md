@@ -1,6 +1,6 @@
 # WEEK 2 Golden Square
 
-## CONTENTS
+## Contents
 
 ---
 ---
@@ -18,14 +18,14 @@
 * [x] Complete Debugging challenges
 * [x] Complete solo project to test my Golden square skills
 
-### Plan
+## Plan
 
 * work through all the remaining challenges for phase two
 * work through phase three: mocking bites
 * attend workshops
 * Design the class system for the solo project
 
-### Evidence
+## Evidence
 
 * [Intermezzo Debugging](https://github.com/maddc0de/intermezzo-debugging)
 * [Test-drived a Multi-Class System](https://github.com/maddc0de/test-drive-multi-class-system)
@@ -39,7 +39,7 @@
 
 ### 20th March
 
-[x] Complete the debugging challenges 
+[x] Complete the debugging challenges
 
 ### 21st March
 
@@ -90,3 +90,11 @@ Points that resonated with me the most in the retro:
 ## Useful Tips
 
 One of my key takeaways from the EQ Workshop about feedback is maybe using a framework, **ASK**, when giving feedback. This stands for: Actionable, Specific and Kind.
+
+---
+---
+
+go back to weekly outline [here](https://github.com/maddc0de/learning-journey-at-makers/blob/main/README.md)
+
+---
+---
