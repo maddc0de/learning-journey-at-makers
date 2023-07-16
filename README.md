@@ -2,7 +2,7 @@
 
 -----
 
-This is my learning journey as part of the `March2023 cohort` at Makers Academy.
+This is my learning journey as part of the `March2023 cohort` at [Makers Academy](https://makers.tech/).
 This is where I document and keep track of my goals and progress.
 
 ## Weekly Outlines
@@ -67,7 +67,7 @@ This is where I document and keep track of my goals and progress.
 * **Goals:**
   * Learn to test-drive programs with multiple classes.
   * Learn to break programs up into classes.
-  * Learn to debug your programs.
+  * Learn to debug programs.
   * Learn to build software as a pair.
   * Learn to explain why test-driving, object-oriented design, debugging, and pairing are powerful practices for software engineers.
 
